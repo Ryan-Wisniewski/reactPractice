@@ -1,3 +1,3 @@
-To begin cd to top level index.js.
+To begin cd into top level project
 
 Run "Yarn Start"
